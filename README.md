@@ -1,7 +1,7 @@
 # PwC Power BI Virtual Internship
 Hi, thank you for checking out my Power BI project for the PwC Switzerland Power BI Job Simulation by Forage. This project involves creating a series of Power BI dashboards based on the call center, customer churn, and diversity and inclusion datasets. The dashboards aim to provide comprehensive insights into various aspects of the business operations and customer dynamics.
 
-# Call Centre Trends Dashboard
+# Call Center Trends Dashboard
 
 This task requires you to analise and clean call center dataset and create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. 
 
